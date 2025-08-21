@@ -1,1 +1,7 @@
-Hello!
+generating galaxy spectrum for given galactic property.
+1. need feature reduction
+2. PCA?
+3. continuum + emission or absorption?
+
+creating mock galaxy spectrum and see the population property.
+1. What property?
